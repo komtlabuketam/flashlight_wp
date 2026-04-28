@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "- New UI",
+        "force_update": "false",
+        "package_name": "com.bigsoft.aiphotogenerator.aicreatix",
+        "version_code": 1,
+        "version_name": 1.0",
+        "new_package_name": "com.bigsoft.aiphotogenerator.aicreatix"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
